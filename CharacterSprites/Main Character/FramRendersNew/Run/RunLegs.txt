@@ -1,0 +1,144 @@
+RunLegs.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RunLegs
+  rotate: false
+  xy: 2, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 0
+RunLegs
+  rotate: false
+  xy: 259, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 1
+RunLegs
+  rotate: false
+  xy: 516, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 2
+RunLegs
+  rotate: false
+  xy: 773, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 3
+RunLegs
+  rotate: false
+  xy: 1030, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 4
+RunLegs
+  rotate: false
+  xy: 1287, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 5
+RunLegs
+  rotate: false
+  xy: 1544, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 6
+RunLegs
+  rotate: false
+  xy: 2, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 7
+RunLegs
+  rotate: false
+  xy: 259, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 8
+RunLegs
+  rotate: false
+  xy: 516, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 9
+RunLegs
+  rotate: false
+  xy: 773, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 10
+RunLegs
+  rotate: false
+  xy: 1030, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 11
+RunLegs
+  rotate: false
+  xy: 1287, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 12
+RunLegs
+  rotate: false
+  xy: 1544, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 13
+RunLegs
+  rotate: false
+  xy: 2, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 14
+RunLegs
+  rotate: false
+  xy: 259, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 15
+RunLegs
+  rotate: false
+  xy: 516, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 16
+RunLegs
+  rotate: false
+  xy: 773, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 17
+RunLegs
+  rotate: false
+  xy: 1030, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 18
+RunLegs
+  rotate: false
+  xy: 1287, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 19

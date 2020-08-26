@@ -1,0 +1,109 @@
+Death.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 2, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 0
+Death
+  rotate: false
+  xy: 259, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 1
+Death
+  rotate: false
+  xy: 516, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 2
+Death
+  rotate: false
+  xy: 773, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 3
+Death
+  rotate: false
+  xy: 1030, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 4
+Death
+  rotate: false
+  xy: 2, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 5
+Death
+  rotate: false
+  xy: 259, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 6
+Death
+  rotate: false
+  xy: 516, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 7
+Death
+  rotate: false
+  xy: 773, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 8
+Death
+  rotate: false
+  xy: 1030, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 9
+Death
+  rotate: false
+  xy: 2, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 10
+Death
+  rotate: false
+  xy: 259, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 11
+Death
+  rotate: false
+  xy: 516, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 12
+Death
+  rotate: false
+  xy: 773, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 13
+Death
+  rotate: false
+  xy: 1030, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 14

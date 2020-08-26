@@ -1,0 +1,144 @@
+JumpHead.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JumpHead
+  rotate: false
+  xy: 2, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 0
+JumpHead
+  rotate: false
+  xy: 259, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 1
+JumpHead
+  rotate: false
+  xy: 516, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 2
+JumpHead
+  rotate: false
+  xy: 773, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 3
+JumpHead
+  rotate: false
+  xy: 1030, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 4
+JumpHead
+  rotate: false
+  xy: 1287, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 5
+JumpHead
+  rotate: false
+  xy: 1544, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 6
+JumpHead
+  rotate: false
+  xy: 2, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 7
+JumpHead
+  rotate: false
+  xy: 259, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 8
+JumpHead
+  rotate: false
+  xy: 516, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 9
+JumpHead
+  rotate: false
+  xy: 773, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 10
+JumpHead
+  rotate: false
+  xy: 1030, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 11
+JumpHead
+  rotate: false
+  xy: 1287, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 12
+JumpHead
+  rotate: false
+  xy: 1544, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 13
+JumpHead
+  rotate: false
+  xy: 2, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 14
+JumpHead
+  rotate: false
+  xy: 259, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 15
+JumpHead
+  rotate: false
+  xy: 516, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 16
+JumpHead
+  rotate: false
+  xy: 773, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 17
+JumpHead
+  rotate: false
+  xy: 1030, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 18
+JumpHead
+  rotate: false
+  xy: 1287, 534
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 19

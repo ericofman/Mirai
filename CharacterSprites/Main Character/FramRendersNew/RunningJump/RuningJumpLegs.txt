@@ -1,0 +1,95 @@
+RuningJumpLegs.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RuningJumpLegs
+  rotate: false
+  xy: 2, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 1
+RuningJumpLegs
+  rotate: false
+  xy: 259, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 2
+RuningJumpLegs
+  rotate: false
+  xy: 516, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 3
+RuningJumpLegs
+  rotate: false
+  xy: 773, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 4
+RuningJumpLegs
+  rotate: false
+  xy: 1030, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 5
+RuningJumpLegs
+  rotate: false
+  xy: 1287, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 6
+RuningJumpLegs
+  rotate: false
+  xy: 1544, 2
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 7
+RuningJumpLegs
+  rotate: false
+  xy: 2, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 8
+RuningJumpLegs
+  rotate: false
+  xy: 259, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 9
+RuningJumpLegs
+  rotate: false
+  xy: 516, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 10
+RuningJumpLegs
+  rotate: false
+  xy: 773, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 11
+RuningJumpLegs
+  rotate: false
+  xy: 1030, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 12
+RuningJumpLegs
+  rotate: false
+  xy: 1287, 268
+  size: 255, 264
+  orig: 255, 264
+  offset: 0, 0
+  index: 13

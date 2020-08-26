@@ -1,0 +1,138 @@
+
+mainPlayer.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BicepL
+  rotate: true
+  xy: 353, 432
+  size: 179, 106
+  orig: 181, 108
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 2, 750
+  size: 304, 238
+  orig: 306, 240
+  offset: 1, 1
+  index: -1
+CalfL
+  rotate: false
+  xy: 655, 868
+  size: 232, 120
+  orig: 234, 122
+  offset: 1, 1
+  index: -1
+CalfR
+  rotate: false
+  xy: 2, 3
+  size: 169, 210
+  orig: 171, 212
+  offset: 1, 1
+  index: -1
+FootL
+  rotate: true
+  xy: 185, 431
+  size: 113, 166
+  orig: 115, 168
+  offset: 1, 1
+  index: -1
+ForearmL
+  rotate: true
+  xy: 308, 778
+  size: 81, 210
+  orig: 83, 212
+  offset: 1, 1
+  index: -1
+Gun
+  rotate: false
+  xy: 461, 450
+  size: 98, 161
+  orig: 100, 163
+  offset: 1, 1
+  index: -1
+Head
+  rotate: true
+  xy: 2, 215
+  size: 206, 190
+  orig: 208, 192
+  offset: 1, 1
+  index: -1
+Neck
+  rotate: true
+  xy: 185, 546
+  size: 202, 153
+  orig: 204, 155
+  offset: 1, 1
+  index: -1
+ShoulderL
+  rotate: false
+  xy: 520, 764
+  size: 120, 95
+  orig: 122, 97
+  offset: 1, 1
+  index: -1
+ShoulderR
+  rotate: false
+  xy: 518, 644
+  size: 104, 118
+  orig: 106, 120
+  offset: 1, 1
+  index: -1
+ThighL
+  rotate: true
+  xy: 308, 861
+  size: 127, 345
+  orig: 129, 347
+  offset: 1, 1
+  index: -1
+ThightR
+  rotate: true
+  xy: 2, 423
+  size: 325, 181
+  orig: 327, 183
+  offset: 1, 1
+  index: -1
+Waste
+  rotate: false
+  xy: 340, 613
+  size: 176, 163
+  orig: 178, 165
+  offset: 1, 1
+  index: -1
+beceptR
+  rotate: false
+  xy: 194, 260
+  size: 125, 169
+  orig: 127, 171
+  offset: 1, 1
+  index: -1
+footR
+  rotate: true
+  xy: 889, 829
+  size: 159, 129
+  orig: 161, 131
+  offset: 1, 1
+  index: -1
+foreamR
+  rotate: true
+  xy: 173, 2
+  size: 211, 75
+  orig: 213, 77
+  offset: 1, 1
+  index: -1
+gunpart
+  rotate: false
+  xy: 391, 364
+  size: 58, 66
+  orig: 60, 68
+  offset: 1, 1
+  index: -1
+handR
+  rotate: true
+  xy: 321, 275
+  size: 154, 68
+  orig: 156, 70
+  offset: 1, 1
+  index: -1
